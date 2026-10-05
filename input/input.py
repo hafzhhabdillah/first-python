@@ -1,0 +1,11 @@
+nama = input("masukan nama : ")
+ttl = input("masukan tempat tanggal lahir : ")
+tempat_tinggal = input("masukan tempat tinggal : ")
+umur = input("masukan umur : ")
+hobi = input("masukan hobi : ")
+
+print("nama : ", nama)
+print("tempat tanggal lahir : ", ttl)
+print("tempat tinggal : ", tempat_tinggal)
+print("umur : ", umur)
+print("hobi : ", hobi)
